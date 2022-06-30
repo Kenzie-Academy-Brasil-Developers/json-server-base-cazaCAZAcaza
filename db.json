@@ -6,6 +6,21 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "caza@hotmail.com",
+      "password": "$2a$10$Q29amu4ugEbE4r8AkcjMUO9GT4zeow.XFWWdMeyPW770Wn0pEeIKW",
+      "name": "Caza",
+      "age": "22",
+      "id": 2
     }
-  ]
+  ],
+  "abilities": [
+    {
+      "primary": "firestorm",
+      "secondary": "flames",
+      "id": 1
+    }
+  ],
+  "weakness": []
 }
